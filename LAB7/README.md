@@ -12,14 +12,11 @@
 - Compare Miller–Rabin primality testing with trial division.
 
 ## Tools and Technologies Used
-- Python 3: Algorithm implementation.
-- Visual Studio Code: Code editing.
-- PowerShell: Program execution.
-- heapq: Priority queues.
-- random: Random inputs, pivots, and primality-test bases.
-- time.perf_counter(): Measuring execution time.
-- pathlib: Reading input files.
-- collections.Counter: Counting character frequencies.
+- Python 3
+- Visual Studio Code
+- time.perf_counter()
+- pathlib
+- collections.Counter
 
 ## Prerequisites
 - Sorting, recursion, and complexity analysis.

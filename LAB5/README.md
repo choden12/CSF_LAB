@@ -11,12 +11,11 @@
 - Calculate the Kendall tau distance between two movie rankings.
 
 ## Tools and Technologies Used
-- Python 3: Algorithm implementation.
-- Visual Studio Code: Code editing.
-- PowerShell: Program execution.
-- Matplotlib: Plotting benchmark results.
-- random: Generating test inputs.
-- time.perf_counter(): Measuring execution time.
+- Python 3
+- Visual Studio Code
+- Matplotlib
+- random
+- time.perf_counter()
 
 ## Prerequisites
 - Arrays, loops, functions, and recursion.

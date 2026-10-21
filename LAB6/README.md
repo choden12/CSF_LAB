@@ -11,12 +11,10 @@
 - Construct an optimal binary search tree.
 
 ## Tools and Technologies Used
-- Python 3: Algorithm implementation.
-- Visual Studio Code: Code editing.
-- PowerShell: Program execution.
-- time.perf_counter(): Measuring execution time.
-- random: Generating test inputs.
-- pathlib: Reading text files.
+- Python 3
+- Visual Studio Code
+- time.perf_counter()
+- random
 
 ## Prerequisites
 - Recursion and basic complexity analysis.
